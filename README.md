@@ -2,7 +2,7 @@
 
 💻 Desarrollador de software especializado en **.NET 8, React y Arquitectura de Microservicios**.  
 🚀 Experiencia en **Azure DevOps, Docker, SonarCloud, integración con APIs externas y seguridad (JWT, OAuth2)**.  
-📚 Actualmente profundizando en **Machine Learning aplicado a OCR**.
+📚 Actualmente profundizando en **Machine Learning aplicado a OCR**, **MCP** e **Inteligencia Artificial aplicada**.
 
 ## 🚩 Proyectos Destacados
 - [Universal Cotizador](link): Microservicio para cotizaciones de seguros (CQRS, MediatR, Oracle, Docker).
