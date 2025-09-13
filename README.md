@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy José Hernández
 
-<!--
-**joseangelhernandez/joseangelhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de software especializado en **.NET 8, React y Arquitectura de Microservicios**.  
+🚀 Experiencia en **Azure DevOps, Docker, SonarCloud, integración con APIs externas y seguridad (JWT, OAuth2)**.  
+📚 Actualmente profundizando en **Machine Learning aplicado a OCR**.
 
-Here are some ideas to get you started:
+## 🚩 Proyectos Destacados
+- [Universal Cotizador](link): Microservicio para cotizaciones de seguros (CQRS, MediatR, Oracle, Docker).
+- [Medicore](link): Plataforma clínica con gestión de pacientes, inventario y contabilidad.
+- [TaskMaster AI](link): Gestor de tareas con IA, React + Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+C# | .NET | React | TypeScript | Azure | Oracle | SQL Server | Docker | GitHub Actions  
+
+---
+✨ *Siempre aprendiendo y creando soluciones que impactan.*
